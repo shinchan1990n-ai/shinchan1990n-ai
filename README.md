@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<img src="https://imgs.search.brave.com/kPiptMDFcPBfZe8y-NyrnYBcORGJsNcm8J6WikHaW8o/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC9iLzIv/OC85MzAwNDAtMTQ0/MHgyNTYwLXNhbXN1/bmctaGQtbW9ua2V5/LWQtbHVmZnktd2Fs/bHBhcGVyLmpwZw" alt="image nhi dikh rhi." width="100" height=auto></img>
 <!--
 **shinchan1990n-ai/shinchan1990n-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
